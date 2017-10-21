@@ -1,4 +1,4 @@
-# shop-rxjs-redux
+# Counter-rxjs-redux
 Counter built with vanilla javascript, RxJs and Redux
 
 # Demo
